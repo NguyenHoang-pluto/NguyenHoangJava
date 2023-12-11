@@ -1,0 +1,8 @@
+Tong so cau hoi trong danh sach : 
+1
+Đồ thị Euler là gì?
+Đồ thị vô hướng không chu trình
+Đồ thị vô hướng có chu trình
+Đồ thị có hướng không chu trình
+Đồ thị có hướng có chu trình
+Đồ thị vô hướng có chu trình
